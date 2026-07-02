@@ -6,8 +6,12 @@ The application source code is not stored in this repository.
 
 ## Pages
 
-- Privacy Policy: `/privacy/`
-- Support: `/support/`
+- Ukrainian Privacy Policy: `/privacy/`
+- Ukrainian Support: `/support/`
+- English Privacy Policy: `/en/privacy/`
+- English Support: `/en/support/`
+
+The first-release Ukrainian URLs remain stable. English pages are available under `/en/`.
 
 ## App status
 
