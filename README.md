@@ -1,6 +1,6 @@
-# Artifacts public pages
+# Wonders public pages
 
-This repository hosts public App Store support and privacy pages for the Artifacts iOS app.
+This repository hosts public App Store support and privacy pages for the Wonders iOS app.
 
 The application source code is not stored in this repository.
 
@@ -15,4 +15,4 @@ Ukrainian remains the default locale at `/privacy/` and `/support/`. English pag
 
 ## App status
 
-Artifacts is an unofficial fan-made companion reference. It is not affiliated with, endorsed by, sponsored by, or approved by GSC Game World.
+Дива Зони / Zone Wonders is an unofficial fan-made companion reference. It is not affiliated with, endorsed by, sponsored by, or approved by GSC Game World.
